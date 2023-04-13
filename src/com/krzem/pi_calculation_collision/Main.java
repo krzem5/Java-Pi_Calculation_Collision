@@ -1,6 +1,7 @@
 package com.krzem.pi_calculation_collision;
 
 
+
 public class Main{
 	public static void main(String[] args){
 		long s=System.nanoTime();
